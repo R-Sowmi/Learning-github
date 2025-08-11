@@ -1,0 +1,10 @@
+first copy the link in the git (code) section
+paste it in vs code with command ----> git clone
+add command cd file name that created in git
+create new file in vs code 
+it shows "U"
+then type git status in terminal
+then type git add "file name" you created
+check git status
+type git commit -m"message"
+type git push origin main
