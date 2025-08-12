@@ -1,1 +1,2 @@
-
+today i have created a git repository 
+i am going to change the content in this file so that i can see the changes in visual studio code
